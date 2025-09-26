@@ -30,6 +30,9 @@
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)**，可定制的 AI 编程 CLI 工具，具备可扩展工具和命令功能
 - **[Amp](https://ampcode.com/)**，智能体编程工具，具备自主推理和全面代码编辑功能
 - **[Qwen Code](https://github.com/QwenLM/qwen-code)**，针对 Qwen3-Coder 模型优化的命令行 AI 工作流工具，具备代码理解和自动化功能
+- **[CodeBuff](https://github.com/CodebuffAI/codebuff)**，多智能体 AI 编程助手，提供 CLI 和 SDK 进行精确代码库编辑
+- **[Neovate Code](https://github.com/neovateai/neovate-code)**，开源 CLI 代码智能体，具备插件系统和多模型支持
+- **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**，GitHub 的终端原生 AI 编程助手，具备代码库集成和智能体功能
 
 ## VS Code 扩展
 

@@ -30,6 +30,9 @@ English | [中文](README.zh-CN.md)
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)**, Customizable AI-powered coding CLI with extensible tools and commands
 - **[Amp](https://ampcode.com/)**, Agentic coding tool for autonomous reasoning and comprehensive code editing
 - **[Qwen Code](https://github.com/QwenLM/qwen-code)**, Command-line AI workflow tool optimized for Qwen3-Coder models with code understanding and automation
+- **[CodeBuff](https://github.com/CodebuffAI/codebuff)**, Multi-agent AI coding assistant with CLI and SDK for precise codebase editing
+- **[Neovate Code](https://github.com/neovateai/neovate-code)**, Open-source CLI code agent with plugin system and multi-model support
+- **[GitHub Copilot CLI](https://github.com/github/copilot-cli)**, GitHub's terminal-native AI coding assistant with repository integration and agentic capabilities
 
 ## VS Code Extensions
 
